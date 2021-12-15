@@ -7,14 +7,19 @@ Todos nos habíamos acostumbrado a las limitaciones del HTML y el protocolo HTTP
 
 Con este libro, conocimientos básicos de HTML, CSS y una plataforma de servidor, el lector aprenderá todas las técnicas básicas y avanzadas para crear sitios Web profesionales y modernos, con optimización para buscadores. El lector puede acceder a una certificación que avale los conocimientos adquiridos mediante un examen en línea.
 
-Sepa Cómo Usar
-
+Sepa Cómo Usar:
 Los nuevos conceptos de Web 2.0.
 El objeto XMLHttpRequest.
 JSON y DOM.
 Las librerías jQuery, Prototype y Script.aculo.us, controles ricos (como calendarios y deslizadores), optimización para Google de contenido AJAX.ios.
-Cree
 
+Cree:
 Sitios que actualizan parcialmente la información.
 Un formulario rico y un lector de noticias RSS.
 Aplicaciones para escritorio y para móviles.
+
+Nivel: Intermedio - Avanzado.
+
+Maximiliano Firtman: Es Licenciado en Sistemas, docente, orador y desarrollador Web desde 1996. También es fundador y Director del instituto ITMaster Professional Training.
+
+Marcombo ediciones técnicas
